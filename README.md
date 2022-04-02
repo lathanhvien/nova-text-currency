@@ -1,7 +1,7 @@
 # nova-text-currency 1.0.0
 ### Installation
 ```sh
-$ composer require lathanhvien/nova-text-currency
+composer require lathanhvien/nova-text-currency
 ```
 ### Usage
 ```sh
